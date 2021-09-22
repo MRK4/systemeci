@@ -9,7 +9,7 @@ Le but est de créer un système d'intégration continu effectuant des test unit
 
 Outils utilisés pour le projet:
 
-[Jenkins](https://www.jenkins.io/)
-[NGINX](https://www.nginx.com/)
-[MariaDB](https://mariadb.com/)
-[SonarQube](https://www.sonarqube.org/)
+* [Jenkins](https://www.jenkins.io/)  
+* [NGINX](https://www.nginx.com/)  
+* [MariaDB](https://mariadb.com/)  
+* [SonarQube](https://www.sonarqube.org/)  
