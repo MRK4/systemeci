@@ -35,3 +35,5 @@ Outils utilisés pour le projet:
 * [NGINX](https://www.nginx.com/)  
 * [MariaDB](https://mariadb.com/)  
 * [SonarQube](https://www.sonarqube.org/)  
+
+:coffee: * Projet réalisé par Alexis Lefoul, Aurélien Gauthier et Clément Poudrée *
