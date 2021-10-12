@@ -2,7 +2,7 @@
 
 ## :closed_book: Présentation
 
-Le but est de créer un système d'intégration continu effectuant des test unitaires avant de mettre en prod.
+À chaque commit sur ce projet github, le code est testé grâce à Jenkins *(et des plugins)* à l'aide d'une VM installée sur un serveur Azure, puis si les tests *(tests unitaires et tests d'intégration)* sont concluants, alors le nouveau code sera mis en production.
 
 ## :green_book: Étapes de réalisation
 
