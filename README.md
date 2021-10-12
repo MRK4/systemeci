@@ -15,9 +15,9 @@
 
 ## :blue_book: Mise en place et installation
 
-NGINX est a placer dans " C:\Program Files\ " sinon il ne marchera pas.
+NGINX est à placer dans " C:\Program Files\ " sinon il ne fonctionnera pas.
 
-Activer IIS sur Windows.
+Activer IIS sur Windows [*(voir ici)*](https://enterprise.arcgis.com/fr/web-adaptor/10.3/install/iis/enable-iis-7-components-server.htm).
 
 Modifier dans config NGINX le chemin d'accès root jusqu'au site (on a créé un dossier dans " C:\ ... ".
 
