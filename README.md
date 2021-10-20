@@ -4,7 +4,7 @@
 
 À chaque commit sur ce projet github, le code est testé grâce à Jenkins *(et des plugins)* à l'aide d'une VM installée sur un serveur Azure, puis si les tests *(tests unitaires et tests d'intégration)* sont concluants, alors le nouveau code sera mis en production.
 
-![schéma d'intégration continue](https://github.com/MRK4/systemeci/blob/master/image.png?raw=true))
+![schéma d'intégration continue](https://github.com/MRK4/systemeci/blob/main/image.png?raw=true))
 
 ## :green_book: Étapes de réalisation
 
