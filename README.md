@@ -1,4 +1,4 @@
-# :computer: Système d'Intégration Continue
+# :computer: Système d'Intégration Continue !
 
 ## :closed_book: Présentation
 
