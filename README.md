@@ -38,4 +38,4 @@ Outils utilisés pour le projet:
 * [MariaDB](https://mariadb.com/)  
 * [SonarQube](https://www.sonarqube.org/)  
 
-:coffee: *Projet réalisé par Alexis Lefoul, Aurélien Gauthier et Clément Poudrée*
+:coffee: *Projet réalisé par Alexis Lefoul, Aurélien Gauthier et Clément Poudrée* !
